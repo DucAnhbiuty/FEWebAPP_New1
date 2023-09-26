@@ -1,0 +1,91 @@
+﻿body {
+    margin: 0px;
+    border: none;
+}
+.topDiv {
+    background-color: dimgrey;
+    width: 100%;
+    height: 50px;
+    padding: 5px;
+}
+
+header {
+    width: 15%;
+}
+
+#header1 img {
+    float: left;
+    max-width: 120px;
+    max-height: 40px;
+    padding:7px;
+}
+
+#header2 {
+    float: right;
+    max-width: 90px;
+    max-height: 40px;
+    padding:15px;
+}
+
+nav {
+    float: left;
+    width: 80%;
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+}
+
+#topMenu ul {
+    list-style-type: none;
+}
+
+#topMenu li {
+    display: inline;
+    margin:10px;
+}
+
+#topMenu a {
+    color: white;
+    text-decoration: none;
+}
+#topMenu{
+}
+
+.mainContent {
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}
+
+#newsRegister {
+    background-color: lightgrey;
+    width: 100%;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    padding: 5px;
+    color:white;
+}
+.gioithieu {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #D2D2D7;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    padding: 5px;
+}
